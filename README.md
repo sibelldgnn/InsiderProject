@@ -13,7 +13,6 @@ This app takes use of the following libraries:
 ## Scenario
 
 Automation Start
-----------------
 * User gets the title of the page
 * Page title should be "Insider | Platform for individualized, cross-channel customer experiences"
 * User click on More

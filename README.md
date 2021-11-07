@@ -11,23 +11,28 @@ Libraries
 This app takes use of the following libraries:
 
 ## Scenario
+
+Automation Start
+----------------
 * User gets the title of the page
-* Page title should be "GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi"
-* User click on search box
-* User send to "bilgisayar" to the search box
-* User click on search button
-* User click on second page
-* User gets the url of the page
-* Page link should be "https://www.gittigidiyor.com/arama/?k=bilgisayar&sf=2"
-* Product random click
-* Closed policy alert
-* Add to basket
-* page price and basket price should be equals
-* Click to basket
-* Increase basket count
-* Should be basket count two
-* Delete items in basket
-* Should be basket is empty
+* Page title should be "Insider | Platform for individualized, cross-channel customer experiences"
+* User click on More
+* User click on Careers
+* User gets the text Location
+* User gets the text Teams
+* Checks are insider blocks
+* Click accept
+* Click find your dream job
+* Click filter location
+* Select filter location
+* Click filter department
+* Select filter department
+* Check job list
+* Click job item
+* Check to Jobs Details
+* Click apply for this job
+* Check lever application
+
 
 ## Libraries
 
